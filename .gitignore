@@ -1,0 +1,8 @@
+dist/
+.vercel/
+.claude/
+node_modules/
+server/send.config.php
+__pycache__/
+*.log
+ПРОМПТ.txt

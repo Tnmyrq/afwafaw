@@ -1,0 +1,13 @@
+{
+  "name": "nutrition-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Лендинг программ питания: статическая сборка + Vercel-функция для заявок",
+  "scripts": {
+    "build": "node build.js",
+    "dev": "node build.js --serve"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
